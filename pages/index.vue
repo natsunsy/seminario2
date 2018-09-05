@@ -2,7 +2,7 @@
   <section class="container">
     <div class="columns">
       <div class="column">
-        <h1 class="title has-text-centered">Seminario 2</h1>
+        <h1 class="title has-text-centered">Seminario 2 xd</h1>
 
         <p>Reinforcement learning es una parte de Machine Learning en la que
           un agente aprende a desenvolverse en un ambiente realizando acciones
